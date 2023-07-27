@@ -12,6 +12,11 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+
+		<!-- Add Leaflet CSS -->
+		<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+		<!-- Add Leaflet JavaScript -->
+		<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
 	</head>
 	<body class="is-preload">
 
@@ -25,8 +30,8 @@
 						</div>
 						<div class="content">
 							<div class="inner">
-								<span>Hi there! I'm<h2>Justin Huang</h2></span>
-								<p>I'm a full-stack developer, here to help you build your online presence.</p>
+								<span>Hi there! I'm<h1>Justin Huang</h1></span>
+								<p>I like to code.</p>
 							</div>
 						</div>
 						<nav>
@@ -34,6 +39,7 @@
 								<!--<li><a href="#intro">Intro</a></li>-->
 								<li><a href="#about">About</a></li>
 								<li><a href="#projects">Projects</a></li>
+								<li><a href="#blog">Blog</a></li>
 								<li><a href="#connect">Connect</a></li>
 								<!--<li><a href="#elements">Elements</a></li>-->
 							</ul>
@@ -54,8 +60,8 @@
 						<!-- Projects -->
 							<article id="projects">
 								<h2 class="major">My Projects</h2>
-								<span>I've worked with a variety of code since starting my journey.</span>
-								<p>Here are some of the things I've made:</p>
+								<span>I've been here and there since starting my journey.</span>
+								<p>Here are some of the things I've made!</p>
 								<h2>HTML/CSS/JavaScript</h2>
 								<h4>NYC Guide</h4>
 								<p>A website serving as quick guidance to New York City</p>
@@ -74,10 +80,48 @@
 							<article id="about">
 								<span class="image main about"><img src="images/aboutpic.jpg" alt="" /></span>
 								<h2 class="major">About Me</h2>
-								<p class="beeg">I'm a software engineer based in Boston, MA.</p>
-								<p>My approach to design lies in simplicity, effectiveness, and adaptability. I welcome new challenges as learning opportunities.</p>
-								<p class="clear">Alongside coding, I work in biotechnology. I'm also interested in bouldering, obstacle course racing, drawing & animation, and exploration!</p>
+								<p class="beeg">I'm based in Boston, MA.</p>
+								<p class="clear">I work in biotechnology. I'm also interested in bouldering, obstacle course racing, drawing & animation, and exploration!</p>
 							</article>
+
+						<!-- Food Blog -->
+						<article id="blog">
+							<div id="map" style="height: 400px;"></div> <!-- The map container -->
+							<h2 class="major">My Blog</h2>
+								<p>Here I document my journey in food:</p>
+								<h2>7/13</h2>
+								<p>Stories here.</p>
+								<script>
+									// Initialize the map
+									var map = L.map('map').setView([51.505, -0.09], 13);
+
+									// Add a tile layer (in this example, we use OpenStreetMap as the base map)
+									L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+									attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+									}).addTo(map);
+
+									// Add markers (example, replace with your actual data)
+									var markers = [
+									{
+										name: "Restaurant A",
+										location: [51.5, -0.09],
+										url: "link-to-your-blog-entry-for-restaurant-a"
+									},
+									{
+										name: "Restaurant B",
+										location: [51.51, -0.1],
+										url: "link-to-your-blog-entry-for-restaurant-b"
+									},
+									// Add more markers for other blog entries
+									];
+
+									markers.forEach(function (marker) {
+									L.marker(marker.location)
+										.addTo(map)
+										.bindPopup(`<a href="${marker.url}">${marker.name}</a>`);
+									});
+								</script>
+						</article>
 
 						<!-- Connect -->
 							<article id="connect">
