@@ -88,12 +88,30 @@
 						<article id="blog">
 							<div id="map" style="height: 400px;"></div> <!-- The map container -->
 							<h2 class="major">My Food Blog</h2>
-								<p>Here I document my journey in food:</p>
-								<h2>7/13</h2>
-								<p>Stories here.</p>
+								<p>Here I document my journey in food. Use the map above to find food by location or scroll down to search by town & city!</p>
+								<h2>Boston</h2>
+								<p>Felipe's Taqueria</p>
+								<p>Tavern in The Square (North End)</p>
+								<p>Area Four</p>
+								<p>Ebisuya Sushi Bar</p>
+								<p>Tora Ramen</p>
+								<h2>Florence</h2>
+								<p>Gustaria</p>
+								<h2>Los Angeles</h2>
+								<p>Brothers Cousins Tacos</p>
+								<h2>New York City</h2>
+								<p>Farook</p>
+								<h2>Rome</h2>
+								<p>Food here.</p>
+								<h2>Taipei</h2>
+								<p>Din Tai Fung</p>
+								<h2>Tokyo</h2>
+								<p>Kura Ji</p>
+								<!-- Each city needs a spot on the scroll bar/sidebar -->
+
 								<script>
 									// Initialize the map
-									var map = L.map('map').setView([51.505, -0.09], 13);
+									var map = L.map('map').setView([40.7826, 73.9656], 13);
 
 									// Add a tile layer (in this example, we use OpenStreetMap as the base map)
 									L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -103,8 +121,8 @@
 									// Add markers (example, replace with your actual data)
 									var markers = [
 									{
-										name: "Restaurant A",
-										location: [51.5, -0.09],
+										name: "Felipe's Taqueria",
+										location: [42.37359996267077, -71.12023691206997],
 										url: "link-to-your-blog-entry-for-restaurant-a"
 									},
 									{
