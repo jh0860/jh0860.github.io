@@ -1,0 +1,3731 @@
+﻿[
+    {
+        "card_name": "Akari Nitta, Auxiliary Manager",
+        "number": 6,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "230"
+    },
+    {
+        "card_name": "Dagon, Evolved Disaster",
+        "number": 0,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "120"
+    },
+    {
+        "card_name": "Mahito, Instant Spirit Body of Distorted Killing",
+        "number": 0,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "122"
+    },
+    {
+        "card_name": "Hajime Kashimo, Mythical Beast Amber",
+        "number": 0,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "83"
+    },
+    {
+        "card_name": "Ally's Entry",
+        "number": 184,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "169"
+    },
+    {
+        "card_name": "Angel's Aid",
+        "number": 7,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "72"
+    },
+    {
+        "card_name": "Masquerading Malice",
+        "number": 0,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "150"
+    },
+    {
+        "card_name": "Ambush Slasher",
+        "number": 98,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "141"
+    },
+    {
+        "card_name": "Auspicious Beasts Summon: Kaichi",
+        "number": 136,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "209"
+    },
+    {
+        "card_name": "Brotherly Bond",
+        "number": 185,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "341"
+    },
+    {
+        "card_name": "Angel's Intervention",
+        "number": 8,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "298"
+    },
+    {
+        "card_name": "Antigravity System",
+        "number": 56,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "293"
+    },
+    {
+        "card_name": "Angler Curse",
+        "number": 99,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "240"
+    },
+    {
+        "card_name": "Auspicious Beasts Summon: Kirin",
+        "number": 137,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "211"
+    },
+    {
+        "card_name": "Cackling Shrooms",
+        "number": 186,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "157"
+    },
+    {
+        "card_name": "Arata Nitta, Healer",
+        "number": 9,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "231"
+    },
+    {
+        "card_name": "Auspicious Beasts Summon: Reiki",
+        "number": 57,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "210"
+    },
+    {
+        "card_name": "Binding Vow",
+        "number": 100,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "14"
+    },
+    {
+        "card_name": "Black Flash",
+        "number": 138,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "17"
+    },
+    {
+        "card_name": "Centipede Swarm",
+        "number": 187,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "235"
+    },
+    {
+        "card_name": "Atsuya Kusakabe, Master Swordsman",
+        "number": 10,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "192"
+    },
+    {
+        "card_name": "Bag Mask, Cloning Specialist",
+        "number": 58,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "184"
+    },
+    {
+        "card_name": "Blood Manipulation: Stack",
+        "number": 101,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "217"
+    },
+    {
+        "card_name": "Blazing Courage",
+        "number": 139,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "252"
+    },
+    {
+        "card_name": "Chojuro Zenin, of the Hei",
+        "number": 188,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "254"
+    },
+    {
+        "card_name": "Automatic Engagement",
+        "number": 11,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "336"
+    },
+    {
+        "card_name": "Black Rope",
+        "number": 59,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "29"
+    },
+    {
+        "card_name": "The Clan Massacre",
+        "number": 102,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "154"
+    },
+    {
+        "card_name": "Blood Manipulation: Piercing Blood",
+        "number": 140,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "129"
+    },
+    {
+        "card_name": "Cursed Buds",
+        "number": 189,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "138"
+    },
+    {
+        "card_name": "Baby Curses",
+        "number": 12,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "352"
+    },
+    {
+        "card_name": "Centuries of Experience",
+        "number": 60,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "367"
+    },
+    {
+        "card_name": "The Culling Game",
+        "number": 103,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "248"
+    },
+    {
+        "card_name": "Blood Manipulation: Supernova",
+        "number": 141,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "198"
+    },
+    {
+        "card_name": "Cursed Spirit Horde",
+        "number": 190,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "316"
+    },
+    {
+        "card_name": "Break the Spell",
+        "number": 13,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "197"
+    },
+    {
+        "card_name": "Combat Tutorial",
+        "number": 61,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "290"
+    },
+    {
+        "card_name": "Cursed Speech: Die",
+        "number": 104,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "354"
+    },
+    {
+        "card_name": "Blood Sacrifice",
+        "number": 142,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "339"
+    },
+    {
+        "card_name": "Cursed Womb",
+        "number": 191,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "368"
+    },
+    {
+        "card_name": "Charles Bernard, Mangaka",
+        "number": 14,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "278"
+    },
+    {
+        "card_name": "Cursed Speech: Return",
+        "number": 62,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "89"
+    },
+    {
+        "card_name": "Devious Discussions",
+        "number": 105,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "179"
+    },
+    {
+        "card_name": "Chasing Curse",
+        "number": 143,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "244"
+    },
+    {
+        "card_name": "Daruma Curse",
+        "number": 192,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "404"
+    },
+    {
+        "card_name": "Cursed Chant",
+        "number": 15,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "311"
+    },
+    {
+        "card_name": "Cursed Speech: Stop",
+        "number": 63,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "90"
+    },
+    {
+        "card_name": "Diverted Thievery",
+        "number": 106,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "163"
+    },
+    {
+        "card_name": "Chizuru Hari, Small-Time Culler",
+        "number": 144,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "266"
+    },
+    {
+        "card_name": "Detention Center Dweller",
+        "number": 193,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "155"
+    },
+    {
+        "card_name": "Cursed Speech: Crumble Away",
+        "number": 16,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "351"
+    },
+    {
+        "card_name": "Dagon, Born of Water",
+        "number": 64,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "119"
+    },
+    {
+        "card_name": "Fake Your Own Death",
+        "number": 107,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "241"
+    },
+    {
+        "card_name": "Coffin of the Iron Mountain",
+        "number": 145,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "77"
+    },
+    {
+        "card_name": "Dhruv Lakdawalla, Ancient Incarnation",
+        "number": 194,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "271"
+    },
+    {
+        "card_name": "Cursed Speech: Don't Move",
+        "number": 17,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "389"
+    },
+    {
+        "card_name": "Dagon's Flood",
+        "number": 65,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "39"
+    },
+    {
+        "card_name": "Finger Bearer",
+        "number": 108,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "28"
+    },
+    {
+        "card_name": "Coming to Senses",
+        "number": 146,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "379"
+    },
+    {
+        "card_name": "Gluttonous Giant",
+        "number": 195,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "403"
+    },
+    {
+        "card_name": "Cursed Speech: Explode",
+        "number": 18,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "153"
+    },
+    {
+        "card_name": "Endless Hallway",
+        "number": 66,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "173"
+    },
+    {
+        "card_name": "Granny Ogami, Body Summoner",
+        "number": 109,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "205"
+    },
+    {
+        "card_name": "Cursed Speech: Get Crushed",
+        "number": 147,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "152"
+    },
+    {
+        "card_name": "Hanami, Born of the Land",
+        "number": 196,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "116"
+    },
+    {
+        "card_name": "Curtain",
+        "number": 19,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "391"
+    },
+    {
+        "card_name": "Fisherman Curse",
+        "number": 67,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "296"
+    },
+    {
+        "card_name": "Haruta Shigemo, Tenacious Survivor",
+        "number": 110,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "164"
+    },
+    {
+        "card_name": "Cursed Speech: Get Twisted",
+        "number": 148,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "131"
+    },
+    {
+        "card_name": "Hanami's Roots",
+        "number": 197,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "38"
+    },
+    {
+        "card_name": "Deadly Sentencing",
+        "number": 20,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "264"
+    },
+    {
+        "card_name": "Fly Head",
+        "number": 68,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "95"
+    },
+    {
+        "card_name": "Hungering Amalgamation",
+        "number": 111,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "139"
+    },
+    {
+        "card_name": "Disaster Flames: Maximum Meteor",
+        "number": 149,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "32"
+    },
+    {
+        "card_name": "Incarnate",
+        "number": 198,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "360"
+    },
+    {
+        "card_name": "Escape from Ueno Zoo",
+        "number": 21,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "279"
+    },
+    {
+        "card_name": "Flying Fish Curse",
+        "number": 69,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "285"
+    },
+    {
+        "card_name": "Idle Transfiguration: Polymorphic Soul Isomer",
+        "number": 112,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "232"
+    },
+    {
+        "card_name": "Dragon-Bone",
+        "number": 150,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "251"
+    },
+    {
+        "card_name": "Jinichi Zenin, of the Hei",
+        "number": 199,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "242"
+    },
+    {
+        "card_name": "Exorcise",
+        "number": 22,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "26"
+    },
+    {
+        "card_name": "Giant Catfish Curse",
+        "number": 70,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "234"
+    },
+    {
+        "card_name": "Invisible Assassination",
+        "number": 113,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "186"
+    },
+    {
+        "card_name": "Enchain",
+        "number": 151,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "292"
+    },
+    {
+        "card_name": "Mad Dash",
+        "number": 200,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "334"
+    },
+    {
+        "card_name": "Gojo's Ingenuity",
+        "number": 23,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "304"
+    },
+    {
+        "card_name": "Horizon of the Captivating Skandha",
+        "number": 71,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "75"
+    },
+    {
+        "card_name": "Junpei Yoshino, Troubled Student",
+        "number": 114,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "135"
+    },
+    {
+        "card_name": "Fervent Rush",
+        "number": 152,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "365"
+    },
+    {
+        "card_name": "Masked Curse",
+        "number": 201,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "381"
+    },
+    {
+        "card_name": "Hagane Daido, Katana Incarnate",
+        "number": 24,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "288"
+    },
+    {
+        "card_name": "Ice Formation: Icefall",
+        "number": 72,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "238"
+    },
+    {
+        "card_name": "Kenjaku's Last Laugh",
+        "number": 115,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "333"
+    },
+    {
+        "card_name": "Grinning Curse",
+        "number": 153,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "380"
+    },
+    {
+        "card_name": "Megumi Fushiguro, Ten Shadows' Descendant",
+        "number": 202,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "48"
+    },
+    {
+        "card_name": "Hana Kurusu, Angel Incarnate",
+        "number": 25,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "92"
+    },
+    {
+        "card_name": "In The Shadows",
+        "number": 73,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "257"
+    },
+    {
+        "card_name": "Kenjaku's Pact",
+        "number": 116,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "284"
+    },
+    {
+        "card_name": "Group Q Curse User",
+        "number": 154,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "358"
+    },
+    {
+        "card_name": "Panda, Cursed Corpse",
+        "number": 203,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "132"
+    },
+    {
+        "card_name": "Hiromi Higuruma, Awakened Prodigy",
+        "number": 26,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "259"
+    },
+    {
+        "card_name": "Kissing Curse",
+        "number": 74,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "177"
+    },
+    {
+        "card_name": "Kill the Higher-Ups",
+        "number": 117,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "302"
+    },
+    {
+        "card_name": "Hajime Kashimo, God of Lightning",
+        "number": 155,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "82"
+    },
+    {
+        "card_name": "Pesky Giant",
+        "number": 204,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "355"
+    },
+    {
+        "card_name": "Hometown",
+        "number": 27,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "275"
+    },
+    {
+        "card_name": "Kiyotaka Ijichi, Assistant Manager",
+        "number": 75,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "126"
+    },
+    {
+        "card_name": "Mahito, Born of Hatred",
+        "number": 118,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "121"
+    },
+    {
+        "card_name": "Hidden Inventory",
+        "number": 156,
+        "shape": "saga",
+        "set": "jjk",
+        "rotated": false,
+        "position": "140"
+    },
+    {
+        "card_name": "Rainbow Beast",
+        "number": 205,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "245"
+    },
+    {
+        "card_name": "Infinity Expansion",
+        "number": 28,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "373"
+    },
+    {
+        "card_name": "Limitless: Blue",
+        "number": 76,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "33"
+    },
+    {
+        "card_name": "Mahito's Malice",
+        "number": 119,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "36"
+    },
+    {
+        "card_name": "Idle Transfiguration: Body Repel",
+        "number": 157,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "199"
+    },
+    {
+        "card_name": "Rainbow Dragon",
+        "number": 206,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "145"
+    },
+    {
+        "card_name": "It Was Fun",
+        "number": 29,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "314"
+    },
+    {
+        "card_name": "Mei Mei's Surveillance",
+        "number": 77,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "194"
+    },
+    {
+        "card_name": "Mask Entities",
+        "number": 120,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "142"
+    },
+    {
+        "card_name": "Jogo, Born of Fire",
+        "number": 158,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "118"
+    },
+    {
+        "card_name": "Rampant Growth",
+        "number": 207,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "19"
+    },
+    {
+        "card_name": "Kasumi Miwa, Spirited Swordsman",
+        "number": 30,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "81"
+    },
+    {
+        "card_name": "Momo Nishimiya, Battlefield Scout",
+        "number": 78,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "98"
+    },
+    {
+        "card_name": "Maternal Imposter",
+        "number": 121,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "297"
+    },
+    {
+        "card_name": "Jogo's Scorn",
+        "number": 159,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "37"
+    },
+    {
+        "card_name": "Reinforced Strike",
+        "number": 208,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "35"
+    },
+    {
+        "card_name": "Kento Nanami, Ratio Sorcerer",
+        "number": 31,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "99"
+    },
+    {
+        "card_name": "Mull Over",
+        "number": 79,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "361"
+    },
+    {
+        "card_name": "Megumi's Negotiations",
+        "number": 122,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "255"
+    },
+    {
+        "card_name": "Juzo Kumiya, Aggressive Tinkerer",
+        "number": 160,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "162"
+    },
+    {
+        "card_name": "Rin Amai, Sugar Manipulator",
+        "number": 209,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "263"
+    },
+    {
+        "card_name": "Kirara Hoshi, Star Seer",
+        "number": 32,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "256"
+    },
+    {
+        "card_name": "Pelican Curse",
+        "number": 80,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "349"
+    },
+    {
+        "card_name": "Roppongi Curse",
+        "number": 123,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "156"
+    },
+    {
+        "card_name": "Kamutoke",
+        "number": 161,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "22"
+    },
+    {
+        "card_name": "Rokujushi Miyo, Sumo Incarnate",
+        "number": 210,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "289"
+    },
+    {
+        "card_name": "Kokichi Muta, Mecha Manipulator",
+        "number": 33,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "44"
+    },
+    {
+        "card_name": "Ray Curse",
+        "number": 81,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "175"
+    },
+    {
+        "card_name": "Self-Embodiment of Perfection",
+        "number": 124,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "76"
+    },
+    {
+        "card_name": "Ko-Guy",
+        "number": 162,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "196"
+    },
+    {
+        "card_name": "Shining Sea of Flowers",
+        "number": 211,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "74"
+    },
+    {
+        "card_name": "Kukuru Unit Member",
+        "number": 34,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "346"
+    },
+    {
+        "card_name": "Remi, Damsel in Distress",
+        "number": 82,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "267"
+    },
+    {
+        "card_name": "Shrine: Cleave",
+        "number": 125,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "30"
+    },
+    {
+        "card_name": "Kokun, Q Soldier",
+        "number": 163,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "174"
+    },
+    {
+        "card_name": "Snarky Spinner",
+        "number": 212,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "159"
+    },
+    {
+        "card_name": "Masamichi Yaga, Cursed Corpse Puppeteer",
+        "number": 35,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "124"
+    },
+    {
+        "card_name": "School Grounds Wanderer",
+        "number": 83,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "161"
+    },
+    {
+        "card_name": "Shrine: Dismantle",
+        "number": 126,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "87"
+    },
+    {
+        "card_name": "Lightning Discharge",
+        "number": 164,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "282"
+    },
+    {
+        "card_name": "Squirrel Curse",
+        "number": 213,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "246"
+    },
+    {
+        "card_name": "Mechamaru",
+        "number": 36,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "390"
+    },
+    {
+        "card_name": "Sea Lurking Curse",
+        "number": 84,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "286"
+    },
+    {
+        "card_name": "Smallpox Hag, Disease Curse",
+        "number": 127,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "215"
+    },
+    {
+        "card_name": "Limitless: Red",
+        "number": 165,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "34"
+    },
+    {
+        "card_name": "Stifling Biters",
+        "number": 214,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "317"
+    },
+    {
+        "card_name": "Misato Kuroi, Riko's Caretaker",
+        "number": 37,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "180"
+    },
+    {
+        "card_name": "Skittering Curse",
+        "number": 85,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "384"
+    },
+    {
+        "card_name": "Stairway Curse",
+        "number": 128,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "295"
+    },
+    {
+        "card_name": "Low Blow",
+        "number": 166,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "385"
+    },
+    {
+        "card_name": "Take to the Sky",
+        "number": 215,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "337"
+    },
+    {
+        "card_name": "Nanami's Bluntsword",
+        "number": 38,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "330"
+    },
+    {
+        "card_name": "Sky Manipulation: Thin Ice Breaker",
+        "number": 86,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "277"
+    },
+    {
+        "card_name": "Sukuna's Adaptation",
+        "number": 129,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "313"
+    },
+    {
+        "card_name": "Maki Zenin, Clan Failure",
+        "number": 167,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "93"
+    },
+    {
+        "card_name": "Tasuke's Owner, Shikigami User",
+        "number": 216,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "182"
+    },
+    {
+        "card_name": "Nobuaki Zenin, Kukuru Captain",
+        "number": 39,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "253"
+    },
+    {
+        "card_name": "Slime Curse",
+        "number": 87,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "315"
+    },
+    {
+        "card_name": "Sukuna's Finger",
+        "number": 130,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "12"
+    },
+    {
+        "card_name": "Metro Mutant",
+        "number": 168,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "416"
+    },
+    {
+        "card_name": "Ten Shadows: Great Serpent",
+        "number": 217,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "100"
+    },
+    {
+        "card_name": "Pit Curse",
+        "number": 40,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "345"
+    },
+    {
+        "card_name": "Spell Pierce",
+        "number": 88,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "363"
+    },
+    {
+        "card_name": "Transfigured Human",
+        "number": 131,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "158"
+    },
+    {
+        "card_name": "Niji Ebina, Serial Killer",
+        "number": 169,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "212"
+    },
+    {
+        "card_name": "Ten Shadows: Toad",
+        "number": 218,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "104"
+    },
+    {
+        "card_name": "Ranta Zenin, of the Hei",
+        "number": 41,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "250"
+    },
+    {
+        "card_name": "Surveilling Spirits",
+        "number": 89,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "178"
+    },
+    {
+        "card_name": "Treasonous Tutor",
+        "number": 132,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "383"
+    },
+    {
+        "card_name": "Noritoshi Kamo, Blood Manipulator",
+        "number": 170,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "128"
+    },
+    {
+        "card_name": "Thrashing Cyclops",
+        "number": 219,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "350"
+    },
+    {
+        "card_name": "Reprieve",
+        "number": 42,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "405"
+    },
+    {
+        "card_name": "Switch Training",
+        "number": 90,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "338"
+    },
+    {
+        "card_name": "Unwitting Summon",
+        "number": 133,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "143"
+    },
+    {
+        "card_name": "Overseas Hire",
+        "number": 171,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "347"
+    },
+    {
+        "card_name": "Todo's Teachings",
+        "number": 220,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "151"
+    },
+    {
+        "card_name": "Reverse Cursed Technique",
+        "number": 43,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "18"
+    },
+    {
+        "card_name": "Takako Uro, Toh Assassin",
+        "number": 91,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "272"
+    },
+    {
+        "card_name": "Woodlands Stalker",
+        "number": 134,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "160"
+    },
+    {
+        "card_name": "Rooftop Crawler",
+        "number": 172,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "223"
+    },
+    {
+        "card_name": "Unblockable Drumming Beat",
+        "number": 221,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "237"
+    },
+    {
+        "card_name": "Riko Amanai, Plasma Star Vessel",
+        "number": 44,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "181"
+    },
+    {
+        "card_name": "Technique Replenish",
+        "number": 92,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "306"
+    },
+    {
+        "card_name": "The Yasohachi Bridge Case",
+        "number": 135,
+        "shape": "saga",
+        "set": "jjk",
+        "rotated": false,
+        "position": "165"
+    },
+    {
+        "card_name": "Ryu, Auspicious Beasts Summon",
+        "number": 173,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "214"
+    },
+    {
+        "card_name": "Utopia Sprawl",
+        "number": 222,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "274"
+    },
+    {
+        "card_name": "Runaway Truck",
+        "number": 45,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "329"
+    },
+    {
+        "card_name": "Throughout Heaven and Earth",
+        "number": 93,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "364"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Ryu Ishigori, Hotshot",
+        "number": 174,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "270"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Schooling Curse",
+        "number": 46,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "357"
+    },
+    {
+        "card_name": "Time Left",
+        "number": 94,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "362"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Seize the Day",
+        "number": 175,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "366"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Shibuya Crossing Curse",
+        "number": 47,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "374"
+    },
+    {
+        "card_name": "Twin Isopods",
+        "number": 95,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "369"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Shrine: Divine Flame",
+        "number": 176,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "228"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Shoko Ieiri, Jujutsu High Doctor",
+        "number": 48,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "125"
+    },
+    {
+        "card_name": "Unassuming Mannequin",
+        "number": 96,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "149"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Surprise Attack",
+        "number": 177,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "216"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Star Rage: Black Hole",
+        "number": 49,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "84"
+    },
+    {
+        "card_name": "Uraume, The Frozen Star",
+        "number": 97,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "229"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Sustain the Fever",
+        "number": 178,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "359"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Tengen, Immortal Star",
+        "number": 50,
+        "shape": "planeswalker",
+        "set": "jjk",
+        "rotated": false,
+        "position": "88"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Takuma Ino, Auspicious Summoner",
+        "number": 179,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "208"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Ultimate Mechamaru, Mode Absolute",
+        "number": 51,
+        "shape": "saga",
+        "set": "jjk",
+        "rotated": false,
+        "position": "46"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Thug Curses",
+        "number": 180,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "222"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Utahime Iori, Amplifying Ally",
+        "number": 52,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "78"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Vayer, Q Soldier",
+        "number": 181,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "176"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Yu Haibara, Energetic Newcomer",
+        "number": 53,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "185"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Worm Curse",
+        "number": 182,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "183"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Yuji's Dismantle",
+        "number": 54,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "344"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Yoshinobu Gakuganji, Amplifying Sorcerer",
+        "number": 183,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "134"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Yuta's Healing",
+        "number": 55,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "353"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "Contingency Protocol",
+        "number": 231,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "200"
+    },
+    {
+        "card_name": "Geto's Descent",
+        "number": 245,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "190"
+    },
+    {
+        "card_name": "Naoya Zenin, Cursed Womb",
+        "number": 0,
+        "shape": "saga",
+        "set": "jjk",
+        "rotated": false,
+        "position": "220"
+    },
+    {
+        "card_name": "Panda, Gorilla Mode",
+        "number": 0,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "133"
+    },
+    {
+        "card_name": "Call Upon The Ten Shadows",
+        "number": 228,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "411"
+    },
+    {
+        "card_name": "Kuchisake-Onna",
+        "number": 257,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "123"
+    },
+    {
+        "card_name": "Jiro Awasaka, Inverse Sorcerer",
+        "number": 252,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "204"
+    },
+    {
+        "card_name": "Ryomen Sukuna, King of Curses",
+        "number": 0,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "6"
+    },
+    {
+        "card_name": "Hakari's Entrance",
+        "number": 247,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "281"
+    },
+    {
+        "card_name": "Chimera Shadow Garden",
+        "number": 229,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "269"
+    },
+    {
+        "card_name": "Toge Inumaki, Cursed Speech User",
+        "number": 297,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "97"
+    },
+    {
+        "card_name": "Kenjaku, Body Thief",
+        "number": 255,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "47"
+    },
+    {
+        "card_name": "Choso, Death Painting No. 1",
+        "number": 230,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "168"
+    },
+    {
+        "card_name": "Idle Death Gamble",
+        "number": 249,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "283"
+    },
+    {
+        "card_name": "Ganesha, Asian Divine Curse",
+        "number": 244,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "291"
+    },
+    {
+        "card_name": "True Joy",
+        "number": 299,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "325"
+    },
+    {
+        "card_name": "Mei Mei, Sorcerer for Hire",
+        "number": 267,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "193"
+    },
+    {
+        "card_name": "Eso, Death Painting No. 2",
+        "number": 241,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "171"
+    },
+    {
+        "card_name": "Idori Hazanoki, Explosion Incarnate",
+        "number": 250,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "265"
+    },
+    {
+        "card_name": "Ten Shadows: Divine Dog Totality",
+        "number": 286,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "146"
+    },
+    {
+        "card_name": "Ui Ui, Devoted Attendant",
+        "number": 300,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "331"
+    },
+    {
+        "card_name": "Staring Contest",
+        "number": 279,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "320"
+    },
+    {
+        "card_name": "Kechizu, Death Painting No. 3",
+        "number": 254,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "170"
+    },
+    {
+        "card_name": "John\u2730Bobby",
+        "number": 253,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "408"
+    },
+    {
+        "card_name": "Ten Shadows: Rabbit Escape",
+        "number": 291,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "49"
+    },
+    {
+        "card_name": "Deepest Apologies",
+        "number": 313,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "321"
+    },
+    {
+        "card_name": "Yuta's Last Stand",
+        "number": 308,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "343"
+    },
+    {
+        "card_name": "Malevolent Shrine",
+        "number": 264,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "20"
+    },
+    {
+        "card_name": "Kinji Hakari, Feverish Gambler",
+        "number": 256,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "91"
+    },
+    {
+        "card_name": "Ten Shadows: Round Deer",
+        "number": 292,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "106"
+    },
+    {
+        "card_name": "Fodder Curse",
+        "number": 314,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "236"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Sukuna's Decree",
+        "number": 282,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "40"
+    },
+    {
+        "card_name": "Run Through",
+        "number": 276,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "201"
+    },
+    {
+        "card_name": "Ten Shadows: The Tenth",
+        "number": 293,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "4"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Supreme Rot: Decay",
+        "number": 283,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "335"
+    },
+    {
+        "card_name": "Ten Shadows: Piercing Ox",
+        "number": 290,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "108"
+    },
+    {
+        "card_name": "Ten Shadows: Tiger Funeral",
+        "number": 294,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "110"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Ryomen Sukuna, The Disgraced One",
+        "number": 317,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "2"
+    },
+    {
+        "card_name": "Underground Fight Club",
+        "number": 301,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "410"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Jackpot",
+        "number": 315,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "406"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "A Father's Farewell",
+        "number": 242,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "224"
+    },
+    {
+        "card_name": "Cursed Energy Bonus",
+        "number": 234,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "413"
+    },
+    {
+        "card_name": "Cursed Spirit Release",
+        "number": 238,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "239"
+    },
+    {
+        "card_name": "Yuji Itadori, Liberated Sorcerer",
+        "number": 0,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "80"
+    },
+    {
+        "card_name": "Kermit, The Muppet",
+        "number": 1,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "340"
+    },
+    {
+        "card_name": "Inhuman Resolve",
+        "number": 251,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "328"
+    },
+    {
+        "card_name": "Cursed Energy Flow",
+        "number": 235,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "412"
+    },
+    {
+        "card_name": "Earthen Insect Trance",
+        "number": 240,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "324"
+    },
+    {
+        "card_name": "Cursed Gauntlets",
+        "number": 236,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "409"
+    },
+    {
+        "card_name": "Aoi Todo, Besto Friendo",
+        "number": 224,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "43"
+    },
+    {
+        "card_name": "Manami Suda, Geto's Willbearer",
+        "number": 265,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "225"
+    },
+    {
+        "card_name": "Cursed Speech: Blast Away",
+        "number": 237,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "148"
+    },
+    {
+        "card_name": "Kurourushi, Unshackled Curse",
+        "number": 259,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "273"
+    },
+    {
+        "card_name": "Kukuru Sword",
+        "number": 258,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "407"
+    },
+    {
+        "card_name": "Boogie Woogie",
+        "number": 227,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "402"
+    },
+    {
+        "card_name": "Mimiko Hasaba, Geto's Follower",
+        "number": 269,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "203"
+    },
+    {
+        "card_name": "Haba, Newbie Crusher",
+        "number": 246,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "262"
+    },
+    {
+        "card_name": "Kurourushi's Affliction",
+        "number": 260,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "323"
+    },
+    {
+        "card_name": "Naobito Zenin, Clan Head",
+        "number": 271,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "191"
+    },
+    {
+        "card_name": "Larue, Peacemaker",
+        "number": 261,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "227"
+    },
+    {
+        "card_name": "Nanako Hasaba, Geto's Follower",
+        "number": 270,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "202"
+    },
+    {
+        "card_name": "Hanyu, Newbie Crusher",
+        "number": 248,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "261"
+    },
+    {
+        "card_name": "Loss of Control",
+        "number": 263,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "332"
+    },
+    {
+        "card_name": "Naoya Zenin, Head of the Hei",
+        "number": 272,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "219"
+    },
+    {
+        "card_name": "Megumi's Gambit",
+        "number": 266,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "218"
+    },
+    {
+        "card_name": "Ogi Zenin, Resentful Father",
+        "number": 274,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "243"
+    },
+    {
+        "card_name": "Reggie Star, Contract Sorcerer",
+        "number": 275,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "268"
+    },
+    {
+        "card_name": "Tamamo-No-Mae, Vengeful Spirit",
+        "number": 285,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "356"
+    },
+    {
+        "card_name": "Nobara Kugisaki, Straw Doll Specialist",
+        "number": 273,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "79"
+    },
+    {
+        "card_name": "Swapping Symphony",
+        "number": 284,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "342"
+    },
+    {
+        "card_name": "Toshihisa Negi, Geto's Willbearer",
+        "number": 298,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "226"
+    },
+    {
+        "card_name": "Contractual Re-Creation",
+        "number": 310,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "415"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Time Cell Moon Palace",
+        "number": 296,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "221"
+    },
+    {
+        "card_name": "Ten Shadows: Max Elephant",
+        "number": 287,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "15"
+    },
+    {
+        "card_name": "Zomba Curse",
+        "number": 309,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "348"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Yuji Itadori, Cursed Vessel",
+        "number": 305,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "247"
+    },
+    {
+        "card_name": "Ten Shadows: Nue",
+        "number": 288,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "102"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Cursed Polearm",
+        "number": 311,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "414"
+    },
+    {
+        "card_name": "Ten Shadows: The Well's Unknown Abyss",
+        "number": 319,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "112"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Straw Doll: Resonance",
+        "number": 318,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "172"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Authentic Mutual Love",
+        "number": 225,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "21"
+    },
+    {
+        "card_name": "Curse Manipulation: Maximum Uzumaki",
+        "number": 233,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "294"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Yuki Tsukumo, Lone Sorcerer",
+        "number": 306,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "85"
+    },
+    {
+        "card_name": "Miguel Oduol, Dancing Sorcerer",
+        "number": 268,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "207"
+    },
+    {
+        "card_name": "Copy",
+        "number": 232,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "8"
+    },
+    {
+        "card_name": "Womb Profusion",
+        "number": 303,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Ten Shadows: Nue Totality",
+        "number": 289,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "309"
+    },
+    {
+        "card_name": "Yuta Okkotsu, Cursed Prodigy",
+        "number": 307,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "5"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Akuro-o Otake, Rebel Spirit",
+        "number": 223,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "322"
+    },
+    {
+        "card_name": "Debilitating Strike",
+        "number": 312,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "305"
+    },
+    {
+        "card_name": "Suguru Geto, Conflicted Soul",
+        "number": 280,
+        "shape": "planeswalker",
+        "set": "jjk",
+        "rotated": false,
+        "position": "319"
+    },
+    {
+        "card_name": "Dream Performance",
+        "number": 239,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "326"
+    },
+    {
+        "card_name": "Blindside",
+        "number": 226,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "327"
+    },
+    {
+        "card_name": "Threefold Affliction",
+        "number": 295,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "301"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Suguru Geto, Curse Manipulator",
+        "number": 281,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "1"
+    },
+    {
+        "card_name": "Fumihiko Takaba, Comedian",
+        "number": 243,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "249"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Yorozu, Enduring Lover",
+        "number": 304,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "299"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Limitless: Maximum Hollow Purple",
+        "number": 262,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "312"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Mai Zenin, Marksman Sorcerer",
+        "number": 316,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "127"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Satoru Gojo, The Honored One",
+        "number": 277,
+        "shape": "planeswalker",
+        "set": "jjk",
+        "rotated": false,
+        "position": "318"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Insect Armor",
+        "number": 320,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "300"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Satoru Gojo, The Strongest",
+        "number": 278,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "0"
+    },
+    {
+        "card_name": "Unlimited Void",
+        "number": 302,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "3"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Mahoraga, Divine General",
+        "number": 0,
+        "shape": "saga",
+        "set": "jjk",
+        "rotated": false,
+        "position": "7"
+    },
+    {
+        "card_name": "Maki Zenin, Indomitable Force",
+        "number": 0,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "94"
+    },
+    {
+        "card_name": "Domain Amplification",
+        "number": 1,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "303"
+    },
+    {
+        "card_name": "Domain Expansion",
+        "number": 2,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "13"
+    },
+    {
+        "card_name": "Falling Blossom Emotion",
+        "number": 3,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "307"
+    },
+    {
+        "card_name": "Simple Domain",
+        "number": 4,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "41"
+    },
+    {
+        "card_name": "Toji Fushiguro, Sorcerer Killer",
+        "number": 5,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "42"
+    },
+    {
+        "card_name": "Black Lily",
+        "number": 321,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "370"
+    },
+    {
+        "card_name": "Chain of a Thousand Miles",
+        "number": 322,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "31"
+    },
+    {
+        "card_name": "Dharma Wheel of Mahoraga",
+        "number": 323,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "308"
+    },
+    {
+        "card_name": "The Essence of Cursed Energy",
+        "number": 324,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "189"
+    },
+    {
+        "card_name": "Inventory Curse",
+        "number": 325,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "11"
+    },
+    {
+        "card_name": "Inverted Spear of Heaven",
+        "number": 326,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "24"
+    },
+    {
+        "card_name": "Kogane",
+        "number": 327,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "258"
+    },
+    {
+        "card_name": "Playful Cloud",
+        "number": 328,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "10"
+    },
+    {
+        "card_name": "Prison Realm of Genshin",
+        "number": 329,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "23"
+    },
+    {
+        "card_name": "Rika Orimoto's Ring",
+        "number": 330,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "387"
+    },
+    {
+        "card_name": "The Six-Eyes",
+        "number": 331,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "73"
+    },
+    {
+        "card_name": "Slaughter Demon",
+        "number": 332,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "137"
+    },
+    {
+        "card_name": "Split Soul Katana",
+        "number": 333,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "27"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Flooded Rite Hall",
+        "number": 339,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "62"
+    },
+    {
+        "card_name": "Trickling Cavern",
+        "number": 360,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "63"
+    },
+    {
+        "card_name": "Blood Crypt",
+        "number": 335,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "53"
+    },
+    {
+        "card_name": "School Grounds",
+        "number": 353,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "65"
+    },
+    {
+        "card_name": "Secluded Sanctuary",
+        "number": 354,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "66"
+    },
+    {
+        "card_name": "Hallowed Fountain",
+        "number": 345,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "51"
+    },
+    {
+        "card_name": "Watery Grave",
+        "number": 362,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "52"
+    },
+    {
+        "card_name": "Bloodbound Ruins",
+        "number": 336,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "64"
+    },
+    {
+        "card_name": "Stomping Ground",
+        "number": 357,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "55"
+    },
+    {
+        "card_name": "Temple Garden",
+        "number": 358,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "56"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Godless Shrine",
+        "number": 342,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "57"
+    },
+    {
+        "card_name": "Pressurewarped Arena",
+        "number": 350,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "68"
+    },
+    {
+        "card_name": "Grovescourge Hallows",
+        "number": 344,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "69"
+    },
+    {
+        "card_name": "Sacred Foundry",
+        "number": 351,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "61"
+    },
+    {
+        "card_name": "Breeding Pool",
+        "number": 338,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "59"
+    },
+    {
+        "card_name": "Zealous Establishment",
+        "number": 365,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "67"
+    },
+    {
+        "card_name": "Steam Vents",
+        "number": 356,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "60"
+    },
+    {
+        "card_name": "Overgrown Tomb",
+        "number": 348,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "58"
+    },
+    {
+        "card_name": "Smokeless Vow Forge",
+        "number": 355,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "70"
+    },
+    {
+        "card_name": "Flowthread Courtyard",
+        "number": 341,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "71"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Arid Mesa",
+        "number": 334,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "400"
+    },
+    {
+        "card_name": "Bloodstained Mire",
+        "number": 337,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "394"
+    },
+    {
+        "card_name": "Flooded Strand",
+        "number": 340,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "392"
+    },
+    {
+        "card_name": "Gojo Clan Shrine",
+        "number": 343,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "54"
+    },
+    {
+        "card_name": "Marsh Flats",
+        "number": 346,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "397"
+    },
+    {
+        "card_name": "Misty Rainforest",
+        "number": 347,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "401"
+    },
+    {
+        "card_name": "Polluted Delta",
+        "number": 349,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "393"
+    },
+    {
+        "card_name": "Scalding Tarn",
+        "number": 352,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "398"
+    },
+    {
+        "card_name": "Tombs of the Star",
+        "number": 359,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "378"
+    },
+    {
+        "card_name": "Verdant Catacombs",
+        "number": 361,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "399"
+    },
+    {
+        "card_name": "Windswept Heath",
+        "number": 363,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "396"
+    },
+    {
+        "card_name": "Wooded Foothills",
+        "number": 364,
+        "shape": "normal",
+        "set": "jjk",
+        "rotated": false,
+        "position": "395"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Rika, Queen of Curses",
+        "number": 1,
+        "shape": "token",
+        "set": "jjk",
+        "rotated": false,
+        "position": "9"
+    },
+    {
+        "card_name": "Garuda",
+        "number": 41,
+        "shape": "token",
+        "set": "jjk",
+        "rotated": false,
+        "position": "86"
+    },
+    {
+        "card_name": "Baby Curses",
+        "number": 2,
+        "shape": "token",
+        "set": "jjk",
+        "rotated": false,
+        "position": "388"
+    },
+    {
+        "card_name": "Cursed Construct",
+        "number": 3,
+        "shape": "token",
+        "set": "jjk",
+        "rotated": false,
+        "position": "45"
+    },
+    {
+        "card_name": "Cursed Toy",
+        "number": 4,
+        "shape": "token",
+        "set": "jjk",
+        "rotated": false,
+        "position": "371"
+    },
+    {
+        "card_name": "Human Sorcerer Soldier",
+        "number": 5,
+        "shape": "token",
+        "set": "jjk",
+        "rotated": false,
+        "position": "372"
+    },
+    {
+        "card_name": "Bag Mask",
+        "number": 6,
+        "shape": "token",
+        "set": "jjk",
+        "rotated": false,
+        "position": "188"
+    },
+    {
+        "card_name": "Bird",
+        "number": 7,
+        "shape": "token",
+        "set": "jjk",
+        "rotated": false,
+        "position": "195"
+    },
+    {
+        "card_name": "Fly Head",
+        "number": 8,
+        "shape": "token",
+        "set": "jjk",
+        "rotated": false,
+        "position": "96"
+    },
+    {
+        "card_name": "Spirit Fish",
+        "number": 9,
+        "shape": "token",
+        "set": "jjk",
+        "rotated": false,
+        "position": "144"
+    },
+    {
+        "card_name": "Cursed Human Mutant",
+        "number": 10,
+        "shape": "token",
+        "set": "jjk",
+        "rotated": false,
+        "position": "377"
+    },
+    {
+        "card_name": "Cursed Human Mutant",
+        "number": 11,
+        "shape": "token",
+        "set": "jjk",
+        "rotated": false,
+        "position": "376"
+    },
+    {
+        "card_name": "Cursed Human Mutant",
+        "number": 12,
+        "shape": "token",
+        "set": "jjk",
+        "rotated": false,
+        "position": "233"
+    },
+    {
+        "card_name": "Cursed Spirit",
+        "number": 13,
+        "shape": "token",
+        "set": "jjk",
+        "rotated": false,
+        "position": "167"
+    },
+    {
+        "card_name": "Cursed Spirit",
+        "number": 14,
+        "shape": "token",
+        "set": "jjk",
+        "rotated": false,
+        "position": "375"
+    },
+    {
+        "card_name": "Cursed Spirit",
+        "number": 15,
+        "shape": "token",
+        "set": "jjk",
+        "rotated": false,
+        "position": "386"
+    },
+    {
+        "card_name": "Cursed Spirit",
+        "number": 16,
+        "shape": "token",
+        "set": "jjk",
+        "rotated": false,
+        "position": "166"
+    },
+    {
+        "card_name": "Grandson Ogami",
+        "number": 17,
+        "shape": "token",
+        "set": "jjk",
+        "rotated": false,
+        "position": "206"
+    },
+    {
+        "card_name": "Mask Entities",
+        "number": 18,
+        "shape": "token",
+        "set": "jjk",
+        "rotated": false,
+        "position": "382"
+    },
+    {
+        "card_name": "Moon Dregs",
+        "number": 19,
+        "shape": "token",
+        "set": "jjk",
+        "rotated": false,
+        "position": "136"
+    },
+    {
+        "card_name": "Cursed Spirit Dog",
+        "number": 20,
+        "shape": "token",
+        "set": "jjk",
+        "rotated": false,
+        "position": "213"
+    },
+    {
+        "card_name": "Cursed Spirit Insect",
+        "number": 21,
+        "shape": "token",
+        "set": "jjk",
+        "rotated": false,
+        "position": "130"
+    },
+    {
+        "card_name": "Black Divine Dog",
+        "number": 22,
+        "shape": "token",
+        "set": "jjk",
+        "rotated": false,
+        "position": "114"
+    },
+    {
+        "card_name": "Cursed Spirit Insect",
+        "number": 23,
+        "shape": "token",
+        "set": "jjk",
+        "rotated": false,
+        "position": "260"
+    },
+    {
+        "card_name": "Great Serpent",
+        "number": 24,
+        "shape": "token",
+        "set": "jjk",
+        "rotated": false,
+        "position": "101"
+    },
+    {
+        "card_name": "Spirit",
+        "number": 25,
+        "shape": "token",
+        "set": "jjk",
+        "rotated": false,
+        "position": "187"
+    },
+    {
+        "card_name": "Spirit Beast",
+        "number": 26,
+        "shape": "token",
+        "set": "jjk",
+        "rotated": false,
+        "position": "276"
+    },
+    {
+        "card_name": "Spirit Frog",
+        "number": 27,
+        "shape": "token",
+        "set": "jjk",
+        "rotated": false,
+        "position": "105"
+    },
+    {
+        "card_name": "Spirit Plant",
+        "number": 28,
+        "shape": "token",
+        "set": "jjk",
+        "rotated": false,
+        "position": "117"
+    },
+    {
+        "card_name": "Spirit Rabbit",
+        "number": 29,
+        "shape": "token",
+        "set": "jjk",
+        "rotated": false,
+        "position": "50"
+    },
+    {
+        "card_name": "Tiger Funeral",
+        "number": 30,
+        "shape": "token",
+        "set": "jjk",
+        "rotated": false,
+        "position": "111"
+    },
+    {
+        "card_name": "White Divine Dog",
+        "number": 31,
+        "shape": "token",
+        "set": "jjk",
+        "rotated": false,
+        "position": "113"
+    },
+    {
+        "card_name": "Divine Dog Totality",
+        "number": 33,
+        "shape": "token",
+        "set": "jjk",
+        "rotated": false,
+        "position": "147"
+    },
+    {
+        "card_name": "Max Elephant",
+        "number": 34,
+        "shape": "token",
+        "set": "jjk",
+        "rotated": false,
+        "position": "16"
+    },
+    {
+        "card_name": "Naoya Zenin, Vengeful Spirit",
+        "number": 35,
+        "shape": "token",
+        "set": "jjk",
+        "rotated": false,
+        "position": "287"
+    },
+    {
+        "card_name": "Nue",
+        "number": 36,
+        "shape": "token",
+        "set": "jjk",
+        "rotated": false,
+        "position": "103"
+    },
+    {
+        "card_name": "Panda, Triceratops Mode",
+        "number": 37,
+        "shape": "token",
+        "set": "jjk",
+        "rotated": false,
+        "position": "280"
+    },
+    {
+        "card_name": "Piercing Ox",
+        "number": 38,
+        "shape": "token",
+        "set": "jjk",
+        "rotated": false,
+        "position": "109"
+    },
+    {
+        "card_name": "Round Deer",
+        "number": 39,
+        "shape": "token",
+        "set": "jjk",
+        "rotated": false,
+        "position": "107"
+    },
+    {
+        "card_name": "Spirit Frog",
+        "number": 40,
+        "shape": "token",
+        "set": "jjk",
+        "rotated": false,
+        "position": "115"
+    },
+    {
+        "card_name": "Agito, Merged Beast",
+        "number": 32,
+        "shape": "token",
+        "set": "jjk",
+        "rotated": false,
+        "position": "310"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]
