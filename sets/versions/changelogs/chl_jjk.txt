@@ -1,4 +1,15 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Chasing Curse
+rules_text: Haste [i](This creature can attack and {T} as soon as it comes under your control.)[/i]
+When this creature dies, you may exile the top card of your library. You may play that card until end of turn. => Haste [i](This creature can attack and {T} as soon as it comes under your control.)[/i]
+When this creature dies, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+
+VERSION 2 CHANGELOG
 ====================
 
 

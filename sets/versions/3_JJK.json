@@ -5139,7 +5139,7 @@
             "number": 143,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Haste [i](This creature can attack and {T} as soon as it comes under your control.)[/i]\nWhen this creature dies, you may exile the top card of your library. You may play that card until end of turn.",
+            "rules_text": "Haste [i](This creature can attack and {T} as soon as it comes under your control.)[/i]\nWhen this creature dies, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
