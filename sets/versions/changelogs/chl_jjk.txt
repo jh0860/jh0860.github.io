@@ -1,4 +1,17 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Chizuru Hari, Small-Time Culler
+rules_text: Haste
+Whenever Chizuru attacks, add {R}.
+Whenever you cast your fourth spell each turn, Chizuru gets double strike and trample until end of turn. => Haste
+Whenever Chizuru attacks, add {R}.
+Whenever you cast your fourth spell each turn, Chizuru gains double strike and trample until end of turn.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

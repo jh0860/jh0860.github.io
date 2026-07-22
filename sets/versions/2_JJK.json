@@ -5601,7 +5601,7 @@
             "number": 144,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "Haste\nWhenever Chizuru attacks, add {R}.\nWhenever you cast your fourth spell each turn, Chizuru gets double strike and trample until end of turn.",
+            "rules_text": "Haste\nWhenever Chizuru attacks, add {R}.\nWhenever you cast your fourth spell each turn, Chizuru gains double strike and trample until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
