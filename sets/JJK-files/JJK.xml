@@ -3623,7 +3623,7 @@ Whenever you sacrifice a creature, proliferate.</text>
 		</card>
 		<card>
 			<name>Jiro Awasaka, Inverse Sorcerer</name>
-			<text>{U}{B}: Until end of turn, if a source would deal 1 or 2 damage to Jiro, it deals 3 damage to him instead. If a source would deal 3, 4, or 5 damage to Jiro, prevent that damage.</text>
+			<text>{UB}: Until end of turn, if a source would deal 1 or 2 damage to Jiro, it deals 3 damage to him instead. If a source would deal 3, 4, or 5 damage to Jiro, prevent that damage.</text>
 			<set rarity="rare" picurl="https://jh0860.github.io/sets/JJK-files/img/204.jpg" num="252">JJK</set>
 			<prop>
 				<layout>normal</layout>

@@ -4700,7 +4700,7 @@
             "number": 252,
             "color_identity": "UB",
             "cost": "{1}{U}{B}",
-            "rules_text": "{U}{B}: Until end of turn, if a source would deal 1 or 2 damage to Jiro, it deals 3 damage to him instead. If a source would deal 3, 4, or 5 damage to Jiro, prevent that damage.",
+            "rules_text": "{UB}: Until end of turn, if a source would deal 1 or 2 damage to Jiro, it deals 3 damage to him instead. If a source would deal 3, 4, or 5 damage to Jiro, prevent that damage.",
             "flavor_text": "[i]\u201cUntil the day I die... I will trample on the weak!\u201d [/i]",
             "pt": "3/3",
             "special_text": "",
