@@ -1,4 +1,203 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Angel's Extinguishment added.
+
+Angel's Aid removed.
+
+Playful Cloud
+rules_text: Equipped creature gets +X/+1, where X is equal to its power, and has trample.
+Equip {2} => Equipped creature gets +X/+1, where X is equal to its power, and has trample.
+Equip {1}
+
+Sukuna's Finger
+rules_text: Indestructible
+{T}: Add {B} for each creature card in your graveyard. Spend this mana only to cast a Cursed creature spell.
+{1}{B}{B}, {T}: Sacrifice this artifact. Choose a target creature, then put a +1/+1 counter and a menace counter on it if it's a Cursed creature. => Indestructible
+{T}: Add {B}. Spend this mana only to cast a black spell or activate an ability of a black source.
+{B}{B}, {T}: Sacrifice this artifact. Choose a target creature, then put two +1/+1 counters and a menace counter on it if it's a Cursed creature.
+
+Split Soul Katana
+rules_text: Equipped creature gets +3/-1 and has deathtouch.
+Whenever equipped creature dies, draw a card.
+Equip {2} => Equipped creature gets +3/-1 and has deathtouch.
+Whenever equipped creature dies, draw two cards.
+Equip {2}
+
+Chain of a Thousand Miles
+rules_text: Equipped creature gets +2/+2 and has reach.
+Equipped creature can't be blocked except by three or more creatures.
+Equip {2} => Equipped creature gets +1/+2 and has reach.
+Equipped creature can't be blocked except by three or more creatures.
+Equip {1}
+
+Cursed Speech: Stop
+rules_text: Kicker {U} [i](You may pay an additional {U} as you cast this spell.)[/i]
+If this spell was kicked, counter target spell. Otherwise, counter target spell unless its controller pays {2}. => Kicker 1{U} [i](You may pay an additional {1}{U} as you cast this spell.)[/i]
+If this spell was kicked, counter target spell. Otherwise, counter target spell unless its controller pays {2}.
+
+Ten Shadows: Piercing Ox
+rules_text: Create Piercing Ox, a legendary 4/4 red and green Spirit Ox creature token with haste and trample. It has “At the beginning of your end step, if Piercing Ox attacked this turn, put a +1/+1 counter on it. Otherwise, remove all counters from it,” and “When Piercing Ox dies, create a Treasure token.” => This spell can't be countered.
+Create Piercing Ox, a legendary 4/4 red and green Spirit Ox creature token with haste and trample. It has “At the beginning of your end step, if Piercing Ox attacked this turn, put a +1/+1 counter on it. Otherwise, remove all counters from it,” and “When Piercing Ox dies, create a Treasure token.”
+
+Jogo, Born of Fire
+rules_text: First strike, haste, ward {1}
+Whenever Jogo attacks, create a 2/1 red Cursed Spirit Insect creature token with flying.
+{R}, Sacrifice a creature token you control: Jogo deals 2 damage to any target. => First strike, haste, ward {1}
+Whenever Jogo attacks, you may pay {1}. If you do, create a 2/1 red Cursed Spirit Insect creature token with flying.
+{R}, Sacrifice a creature token you control: Jogo deals 2 damage to any target.
+
+Ambush Slasher
+rules_text: Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+Madness {B} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i] => Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+When this creature enters, exile up to one target card from a graveyard.
+
+Cursed Speech: Explode
+rules_text: Destroy all creatures with mana value 3 or less. => Destroy all creatures with mana value 2 or less.
+
+Diverted Thievery
+cost: {B} => {1}{B}
+rules_text: Target creature gets -1/-1 until end of turn. Exile the top card from the library of that creature's owner. You may cast that card from exile until the end of your next turn, and you may spend mana as if it were mana of any type to cast it. => Target creature gets -2/-2 until end of turn. Exile the top card from the library of that creature's owner. You may cast that card from exile until the end of your next turn, and you may spend mana as if it were mana of any type to cast it.
+
+Haruta Shigemo, Tenacious Survivor
+rules_text: [i]Miracles[/i] — When Haruta enters, put a miracle counter on him for each creature card put into your graveyard this turn.
+Remove a miracle counter from Haruta: Regenerate Haruta. => [i]Miracles[/i] — When Haruta enters, put a miracle counter on him for each creature card in your graveyard.
+Remove a miracle counter from Haruta: Regenerate Haruta.
+
+Naobito Zenin, Clan Head
+rules_text: First strike, reach, haste, ward {1}
+{W}: Until end of turn, target creature can't attack or block unless its controller pays {2}. Activate only once each turn. => First strike, reach, haste, ward {1}
+{W}: Choose target creature. That creature's controller may pay {2}. If they don't, that creature can't attack or block until end of turn. Activate only once each turn.
+
+Miguel Oduol, Dancing Sorcerer
+rules_text: Vigilance, ward {2}, prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+Whenever you cast a noncreature spell, creatures your opponents control get -1/-0 and Miguel gains trample until end of turn. => Trample, ward {2}
+At the beginning of your first main phase, add one mana of any color.
+Whenever you cast a noncreature spell, put a +1/+1 counter on Miguel. Creatures your opponents control get -1/-0 and Miguel gains vigilance until end of turn.
+
+Blood Manipulation: Stack
+cost: {1}{B} => {B}
+rules_text: Until end of turn, target creature gains deathtouch, indestructible, toxic 1, and “Whenever this creature deals combat damage to an opponent, discard a card, then draw a card.” [i](Players dealt combat damage by this creature also get a poison counter.)[/i] => Until end of turn, target creature gains deathtouch, indestructible, and toxic 1. [i](Players dealt combat damage by this creature also get a poison counter.)[/i]
+
+Naoya Zenin, Head of the Hei
+rules_text: Double strike, haste, ward {1}
+{W}: Until end of turn, target creature can't attack or block unless its controller pays {2}. Activate only once each turn.
+When Naoya dies, any player may pay {2}. If no one does, return him to the battlefield transformed under your control. => Double strike, haste, ward {1}
+{W}: Choose target creature. That creature's controller may pay {2}. If they don't, that creature can't attack or block until end of turn. Activate only once each turn.
+When Naoya dies, any player may pay {2}. If no one does, return him to the battlefield transformed under your control.
+
+Fodder Curse
+cost: {WU} => {1}{WU}
+
+Fumihiko Takaba, Comedian
+rules_text: When Fumihiko enters, draw a card.
+Whenever you cast a spell, you may tell a joke. If you do, Fumihiko gets +1/+1 and gains hexproof and indestructible until end of turn. => When Fumihiko enters, draw two cards.
+Whenever you cast a spell, you may tell a joke. If you do, Fumihiko gets +1/+1 and gains hexproof and indestructible until end of turn.
+pt: 4/4 => 5/5
+
+Idori Hazanoki, Explosion Incarnate
+rules_text: {T}: Idori deals 2 damage to himself and 2 damage to you. Then he deals 3 damage to any target. Activate only as a sorcery.
+{G}: Idori gets +0/+1 until end of turn. => {T}: Flip a coin. If you win the flip, Idori deals 3 damage to any target. Otherwise, Idori deals 1 damage to any target and 2 damage to you. Activate only as a sorcery.
+{G}: Idori gets +0/+1 until end of turn.
+
+Hakari's Entrance
+rules_text: Flash
+When this enchantment enters, up to one target creature gains hexproof and indestructible until end of turn.
+Whenever you cast a creature spell, flip a coin. If you win the flip, draw a card and put a +1/+1 counter on target creature you control. => Flash
+When this enchantment enters, up to one target creature gains hexproof and indestructible until end of turn.
+If you would flip a coin, instead flip two coins and ignore one.
+If you would roll a die, instead roll two of those dice and ignore one of those results.
+
+Threefold Affliction
+rules_text: [/i]As long as another non-Aura [i]Domain[/i] is on the battlefield, this enchantment has no abilities.[i]
+[i]True Sphere[/i] — When Threefold Affliction enters, exile target nonland permanent.
+Each creature you don't control gets -0/-1. Creatures you control get +1/+1. => [/i]As long as another non-Aura [i]Domain[/i] is on the battlefield, this enchantment has no abilities.[i]
+[i]True Sphere[/i] — When Threefold Affliction enters, exile target nonland permanent.
+{0}: Threefold Affliction deals 1 damage to each of any number of target creatures. Activate only once each turn.
+Creatures you control get +1/+1.
+
+Limitless: Maximum Hollow Purple
+cost: {2R}{2U}{W} => {1}{2R}{2U}{W}
+
+Sukuna's Adaptation
+rules_text: Flash
+When Sukuna's Adaptation enters, draw a card, then choose a creature.
+Spells and abilities you control can target that creature as though it didn't have hexproof or shroud, and that creature loses indestructible. Ward abilities of that creature don't trigger. => When this enchantment enters, draw a card. Target creature you don't control loses indestructible.
+Creatures your opponents control can be the targets of spells and abilities as though they didn't have hexproof or shroud. Ward abilities of those creatures don't trigger.
+
+Slime Curse
+rules_text: Bestow {U}{U} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Enchanted creature gets -4/-0. => Flash
+Bestow {U}{U} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Enchanted creature gets -5/-0.
+
+Deepest Apologies
+rules_text: You may tap a Plains or Island you control and put a stun counter on it rather than pay this spell's mana cost.
+Counter target spell unless its controller pays {1}. => You may put a stun counter on a Plains or Island you control rather than pay this spell's mana cost. If you do, tap that land.
+Counter target spell unless its controller pays {1}.
+
+Akuro-o Otake, Rebel Spirit
+rules_text: Haste, menace, lifelink, ward {1}
+Whenever damage is dealt to Akuro-o Otake, it deals that much damage to any target. => Haste, lifelink, ward {1}
+Whenever damage is dealt to Akuro-o Otake, it deals that much damage to any target.
+pt: 5/5 => 5/4
+
+Kurourushi's Affliction
+type: Sorcery => Instant
+
+Earthen Insect Trance
+rules_text: Flying
+When this creature dies, put a -1/-1 counter on up to one target creature. => Flying
+When this creature enters, mill two cards.
+When this creature dies, put a -1/-1 counter on up to one target creature.
+
+Thrashing Cyclops
+rules_text: Trample
+You may play an additional land on each of your turns.
+This creature's power and toughness is equal to the number of lands you control. => Trample
+{G}: Exile target card from a graveyard. If it was a creature card, this creature gets +1/+1 until end of turn.
+This creature's power and toughness is equal to the number of lands you control.
+
+Cursed Speech: Die
+cost: {2}{B} => {1}{B}
+
+Incarnate
+rules_text: Choose a color. Until end of turn, any time you could activate a mana ability, you may pay 2 life. If you do, add one mana of the chosen color. => Choose a color. Until end of turn, any time you could activate a mana ability, you may pay 1 life. If you do, add one mana of the chosen color.
+
+Grinning Curse
+rules_text: Whenever this creature attacks, flip a coin. If you win the flip, draw a card. If you lose the flip, discard a card, then draw a card. => Haste
+Whenever this creature attacks, flip a coin. If you win the flip, draw a card. If you lose the flip, discard a card, then draw a card.
+
+Curtain
+rules_text: Players can't draw more than one card each turn.
+Players can't cast more than one spell each turn.
+{2}, Sacrifice this enchantment: Draw a card. => Players can't draw more than one card each turn.
+Players can't cast more than one spell each turn.
+Sacrifice this enchantment: Draw a card.
+
+Gluttonous Giant
+pt: 7/7 => 6/6
+
+John✰Bobby
+rules_text: {T}: Flip a coin. If you win the flip, discard a card, then draw two cards. Otherwise, discard a card, then draw a card.
+Whenever you win a coin flip or roll a 4 on a d6 or higher, creatures you control get +1/+0 and gain trample until end of turn. => Haste
+{T}: Flip a coin. If you win the flip, discard a card, then draw two cards. Otherwise, discard a card, then draw a card.
+Whenever you flip a coin or roll a die, creatures you control get +1/+0 and gain trample until end of turn.
+
+Cursed Gauntlets
+cost: {1}{R}{W} => {R}{W}
+rules_text: Equipped creature gets +2/+2.
+Whenever equipped creature deals combat damage, at the beginning of the next main phase this turn, add {R}{W}.
+Equip {2} => When this Equipment enters, attach it to target creature you control.
+Equipped creature gets +2/+1 and has ward {1}.
+Whenever equipped creature deals combat damage to an opponent, you may pay {1}. If you do, draw a card.
+Equip {2}
+
+Underground Fight Club
+cost: {1}{R}{G} => {R}{G}
+
+
+VERSION 3 CHANGELOG
 ====================
 
 

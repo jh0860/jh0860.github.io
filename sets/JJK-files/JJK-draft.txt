@@ -721,7 +721,7 @@
 			}
 		},
 		{
-			"name": "Angel's Aid",
+			"name": "Angel's Extinguishment",
 			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Instant",
@@ -1633,7 +1633,7 @@
 		{
 			"name": "Diverted Thievery",
 			"rarity": "special",
-			"mana_cost": "{B}",
+			"mana_cost": "{1}{B}",
 			"type": "Instant",
 			"collector_number": "106",
 			"image_uris": {
@@ -2173,7 +2173,7 @@
 		{
 			"name": "Blood Manipulation: Stack",
 			"rarity": "special",
-			"mana_cost": "{1}{B}",
+			"mana_cost": "{B}",
 			"type": "Instant",
 			"collector_number": "101",
 			"image_uris": {
@@ -2363,7 +2363,7 @@
 		{
 			"name": "Fodder Curse",
 			"rarity": "special",
-			"mana_cost": "{W/U}",
+			"mana_cost": "{1}{W/U}",
 			"type": "Creature — Cursed Spirit",
 			"collector_number": "314",
 			"image_uris": {
@@ -3123,7 +3123,7 @@
 		{
 			"name": "Limitless: Maximum Hollow Purple",
 			"rarity": "special",
-			"mana_cost": "{2/R}{2/U}{W}",
+			"mana_cost": "{1}{2/R}{2/U}{W}",
 			"type": "Sorcery",
 			"collector_number": "262",
 			"image_uris": {
@@ -3234,7 +3234,7 @@
 			"name": "Kurourushi's Affliction",
 			"rarity": "special",
 			"mana_cost": "{B}{G}",
-			"type": "Sorcery",
+			"type": "Instant",
 			"collector_number": "260",
 			"image_uris": {
 				"en": "https://jh0860.github.io/sets/JJK-files/img/323.jpg"
@@ -3543,7 +3543,7 @@
 		{
 			"name": "Cursed Speech: Die",
 			"rarity": "special",
-			"mana_cost": "{2}{B}",
+			"mana_cost": "{1}{B}",
 			"type": "Instant",
 			"collector_number": "104",
 			"image_uris": {
@@ -4093,7 +4093,7 @@
 		{
 			"name": "Cursed Gauntlets",
 			"rarity": "special",
-			"mana_cost": "{1}{R}{W}",
+			"mana_cost": "{R}{W}",
 			"type": "Artifact — Equipment",
 			"collector_number": "236",
 			"image_uris": {
@@ -4103,7 +4103,7 @@
 		{
 			"name": "Underground Fight Club",
 			"rarity": "special",
-			"mana_cost": "{1}{R}{G}",
+			"mana_cost": "{R}{G}",
 			"type": "Enchantment",
 			"collector_number": "301",
 			"image_uris": {
@@ -4241,7 +4241,7 @@
 	1 Grovescourge Hallows
 	1 Smokeless Vow Forge
 	1 Flowthread Courtyard
-	1 Angel's Aid
+	1 Angel's Extinguishment
 	1 The Six-Eyes
 	1 Shining Sea of Flowers
 	1 Horizon of the Captivating Skandha

@@ -5,7 +5,7 @@
 			<name>JJK</name>
 			<longname>Jujutsu Kaisen</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-21</releasedate>
+			<releasedate>2026-08-18</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -195,7 +195,7 @@ Flashback {2}{W}{U}{B}</text>
 		<card>
 			<name>Playful Cloud</name>
 			<text>Equipped creature gets +X/+1, where X is equal to its power, and has trample.
-Equip {2}</text>
+Equip {1}</text>
 			<set rarity="rare" picurl="https://jh0860.github.io/sets/JJK-files/img/10.jpg" num="328">JJK</set>
 			<prop>
 				<layout>normal</layout>
@@ -228,8 +228,8 @@ Reconfigure {2}</text>
 		<card>
 			<name>Sukuna&apos;s Finger</name>
 			<text>Indestructible
-{T}: Add {B} for each creature card in your graveyard. Spend this mana only to cast a Cursed creature spell.
-{1}{B}{B}, {T}: Sacrifice this artifact. Choose a target creature, then put a +1/+1 counter and a menace counter on it if it&apos;s a Cursed creature.</text>
+{T}: Add {B}. Spend this mana only to cast a black spell or activate an ability of a black source.
+{B}{B}, {T}: Sacrifice this artifact. Choose a target creature, then put two +1/+1 counters and a menace counter on it if it&apos;s a Cursed creature.</text>
 			<set rarity="rare" picurl="https://jh0860.github.io/sets/JJK-files/img/12.jpg" num="130">JJK</set>
 			<prop>
 				<layout>normal</layout>
@@ -487,7 +487,7 @@ Creatures you control get +1/+1.</text>
 		<card>
 			<name>Split Soul Katana</name>
 			<text>Equipped creature gets +3/-1 and has deathtouch.
-Whenever equipped creature dies, draw a card.
+Whenever equipped creature dies, draw two cards.
 Equip {2}</text>
 			<set rarity="rare" picurl="https://jh0860.github.io/sets/JJK-files/img/27.jpg" num="333">JJK</set>
 			<prop>
@@ -557,9 +557,9 @@ Enchanted creature loses all abilities and doesn&apos;t untap during its control
 		</card>
 		<card>
 			<name>Chain of a Thousand Miles</name>
-			<text>Equipped creature gets +2/+2 and has reach.
+			<text>Equipped creature gets +1/+2 and has reach.
 Equipped creature can&apos;t be blocked except by three or more creatures.
-Equip {2}</text>
+Equip {1}</text>
 			<set rarity="rare" picurl="https://jh0860.github.io/sets/JJK-files/img/31.jpg" num="322">JJK</set>
 			<prop>
 				<layout>normal</layout>
@@ -1258,11 +1258,11 @@ Whenever this land becomes tapped for colored mana, you lose 1 life.</text>
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>Angel&apos;s Aid</name>
+			<name>Angel&apos;s Extinguishment</name>
 			<text>Choose one — 
 • Choose an artifact or enchantment, then exile it.
 • Exile target attacking or blocking Cursed or Spirit creature.
-• Exile target creature you control, then return it to the battlefield under its owner&apos;s control.</text>
+• Exile target graveyard.</text>
 			<set rarity="rare" picurl="https://jh0860.github.io/sets/JJK-files/img/72.jpg" num="7">JJK</set>
 			<prop>
 				<layout>normal</layout>
@@ -1582,7 +1582,7 @@ Scry 1. (Look at the top card of your library. You may put that card on the bott
 		</card>
 		<card>
 			<name>Cursed Speech: Stop</name>
-			<text>Kicker {U} (You may pay an additional {U} as you cast this spell.)
+			<text>Kicker 1{U} (You may pay an additional {1}{U} as you cast this spell.)
 If this spell was kicked, counter target spell. Otherwise, counter target spell unless its controller pays {2}.</text>
 			<set rarity="rare" picurl="https://jh0860.github.io/sets/JJK-files/img/90.jpg" num="63">JJK</set>
 			<prop>
@@ -1910,7 +1910,8 @@ When Round Deer dies, create a Treasure token.</text>
 		</card>
 		<card>
 			<name>Ten Shadows: Piercing Ox</name>
-			<text>Create Piercing Ox, a legendary 4/4 red and green Spirit Ox creature token with haste and trample. It has &quot;At the beginning of your end step, if Piercing Ox attacked this turn, put a +1/+1 counter on it. Otherwise, remove all counters from it,&quot; and &quot;When Piercing Ox dies, create a Treasure token.&quot;</text>
+			<text>This spell can&apos;t be countered.
+Create Piercing Ox, a legendary 4/4 red and green Spirit Ox creature token with haste and trample. It has &quot;At the beginning of your end step, if Piercing Ox attacked this turn, put a +1/+1 counter on it. Otherwise, remove all counters from it,&quot; and &quot;When Piercing Ox dies, create a Treasure token.&quot;</text>
 			<set rarity="rare" picurl="https://jh0860.github.io/sets/JJK-files/img/108.jpg" num="290">JJK</set>
 			<prop>
 				<layout>normal</layout>
@@ -2092,7 +2093,7 @@ At the beginning of your end step, you may pay {G}. When you do, create a 0/1 gr
 		<card>
 			<name>Jogo, Born of Fire</name>
 			<text>First strike, haste, ward {1}
-Whenever Jogo attacks, create a 2/1 red Cursed Spirit Insect creature token with flying.
+Whenever Jogo attacks, you may pay {1}. If you do, create a 2/1 red Cursed Spirit Insect creature token with flying.
 {R}, Sacrifice a creature token you control: Jogo deals 2 damage to any target.</text>
 			<set rarity="rare" picurl="https://jh0860.github.io/sets/JJK-files/img/118.jpg" num="158">JJK</set>
 			<prop>
@@ -2507,7 +2508,7 @@ III — Hidden Inventory deals 3 damage to any target.</text>
 		<card>
 			<name>Ambush Slasher</name>
 			<text>Flash (You may cast this spell any time you could cast an instant.)
-Madness {B} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</text>
+When this creature enters, exile up to one target card from a graveyard.</text>
 			<set rarity="rare" picurl="https://jh0860.github.io/sets/JJK-files/img/141.jpg" num="98">JJK</set>
 			<prop>
 				<layout>normal</layout>
@@ -2715,7 +2716,7 @@ If this creature would die, exile it instead, then return it to the battlefield 
 		</card>
 		<card>
 			<name>Cursed Speech: Explode</name>
-			<text>Destroy all creatures with mana value 3 or less.</text>
+			<text>Destroy all creatures with mana value 2 or less.</text>
 			<set rarity="rare" picurl="https://jh0860.github.io/sets/JJK-files/img/153.jpg" num="18">JJK</set>
 			<prop>
 				<layout>normal</layout>
@@ -2889,15 +2890,15 @@ Whenever a creature dies, add {B} and target player loses 1 life.</text>
 		</card>
 		<card>
 			<name>Diverted Thievery</name>
-			<text>Target creature gets -1/-1 until end of turn. Exile the top card from the library of that creature&apos;s owner. You may cast that card from exile until the end of your next turn, and you may spend mana as if it were mana of any type to cast it.</text>
+			<text>Target creature gets -2/-2 until end of turn. Exile the top card from the library of that creature&apos;s owner. You may cast that card from exile until the end of your next turn, and you may spend mana as if it were mana of any type to cast it.</text>
 			<set rarity="rare" picurl="https://jh0860.github.io/sets/JJK-files/img/163.jpg" num="106">JJK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>B</manacost>
-				<cmc>1</cmc>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 			</prop>
@@ -2905,7 +2906,7 @@ Whenever a creature dies, add {B} and target player loses 1 life.</text>
 		</card>
 		<card>
 			<name>Haruta Shigemo, Tenacious Survivor</name>
-			<text>Miracles — When Haruta enters, put a miracle counter on him for each creature card put into your graveyard this turn.
+			<text>Miracles — When Haruta enters, put a miracle counter on him for each creature card in your graveyard.
 Remove a miracle counter from Haruta: Regenerate Haruta.</text>
 			<set rarity="rare" picurl="https://jh0860.github.io/sets/JJK-files/img/164.jpg" num="110">JJK</set>
 			<prop>
@@ -3390,7 +3391,7 @@ Draw two cards, then discard one.</text>
 		<card>
 			<name>Naobito Zenin, Clan Head</name>
 			<text>First strike, reach, haste, ward {1}
-{W}: Until end of turn, target creature can&apos;t attack or block unless its controller pays {2}. Activate only once each turn.</text>
+{W}: Choose target creature. That creature&apos;s controller may pay {2}. If they don&apos;t, that creature can&apos;t attack or block until end of turn. Activate only once each turn.</text>
 			<set rarity="rare" picurl="https://jh0860.github.io/sets/JJK-files/img/191.jpg" num="271">JJK</set>
 			<prop>
 				<layout>normal</layout>
@@ -3675,8 +3676,9 @@ At the beginning of your end step, put a time counter on Grandson Ogami. If he h
 		</card>
 		<card>
 			<name>Miguel Oduol, Dancing Sorcerer</name>
-			<text>Vigilance, ward {2}, prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
-Whenever you cast a noncreature spell, creatures your opponents control get -1/-0 and Miguel gains trample until end of turn.</text>
+			<text>Trample, ward {2}
+At the beginning of your first main phase, add one mana of any color.
+Whenever you cast a noncreature spell, put a +1/+1 counter on Miguel. Creatures your opponents control get -1/-0 and Miguel gains vigilance until end of turn.</text>
 			<set rarity="rare" picurl="https://jh0860.github.io/sets/JJK-files/img/207.jpg" num="268">JJK</set>
 			<prop>
 				<layout>normal</layout>
@@ -3855,15 +3857,15 @@ Flashback {2}{R}{G} (You may cast this card from your graveyard for its flashbac
 		</card>
 		<card>
 			<name>Blood Manipulation: Stack</name>
-			<text>Until end of turn, target creature gains deathtouch, indestructible, toxic 1, and &quot;Whenever this creature deals combat damage to an opponent, discard a card, then draw a card.&quot; (Players dealt combat damage by this creature also get a poison counter.)</text>
+			<text>Until end of turn, target creature gains deathtouch, indestructible, and toxic 1. (Players dealt combat damage by this creature also get a poison counter.)</text>
 			<set rarity="rare" picurl="https://jh0860.github.io/sets/JJK-files/img/217.jpg" num="101">JJK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>1B</manacost>
-				<cmc>2</cmc>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 			</prop>
@@ -3889,7 +3891,7 @@ Look at the top five cards of your library. You may reveal a creature or land ca
 		<card>
 			<name>Naoya Zenin, Head of the Hei</name>
 			<text>Double strike, haste, ward {1}
-{W}: Until end of turn, target creature can&apos;t attack or block unless its controller pays {2}. Activate only once each turn.
+{W}: Choose target creature. That creature&apos;s controller may pay {2}. If they don&apos;t, that creature can&apos;t attack or block until end of turn. Activate only once each turn.
 When Naoya dies, any player may pay {2}. If no one does, return him to the battlefield transformed under your control.</text>
 			<set rarity="rare" picurl="https://jh0860.github.io/sets/JJK-files/img/219.jpg" num="272">JJK</set>
 			<prop>
@@ -4203,8 +4205,8 @@ Whenever this creature blocks a creature with trample, that creature assigns com
 				<side>front</side>
 				<type>Creature — Cursed Spirit</type>
 				<maintype>Creature</maintype>
-				<manacost>W/U</manacost>
-				<cmc>1</cmc>
+				<manacost>1W/U</manacost>
+				<cmc>2</cmc>
 				<colors>WU</colors>
 				<coloridentity>WU</coloridentity>
 				<pt>0/1</pt>
@@ -4428,7 +4430,7 @@ At the beginning of the end step, sacrifice The Culling Game.</text>
 		</card>
 		<card>
 			<name>Fumihiko Takaba, Comedian</name>
-			<text>When Fumihiko enters, draw a card.
+			<text>When Fumihiko enters, draw two cards.
 Whenever you cast a spell, you may tell a joke. If you do, Fumihiko gets +1/+1 and gains hexproof and indestructible until end of turn.</text>
 			<set rarity="rare" picurl="https://jh0860.github.io/sets/JJK-files/img/249.jpg" num="243">JJK</set>
 			<prop>
@@ -4440,7 +4442,7 @@ Whenever you cast a spell, you may tell a joke. If you do, Fumihiko gets +1/+1 a
 				<cmc>5</cmc>
 				<colors>WUR</colors>
 				<coloridentity>WUR</coloridentity>
-				<pt>4/4</pt>
+				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4715,7 +4717,7 @@ When Deadly Sentencing leaves the battlefield, return all cards exiled with it t
 		</card>
 		<card>
 			<name>Idori Hazanoki, Explosion Incarnate</name>
-			<text>{T}: Idori deals 2 damage to himself and 2 damage to you. Then he deals 3 damage to any target. Activate only as a sorcery.
+			<text>{T}: Flip a coin. If you win the flip, Idori deals 3 damage to any target. Otherwise, Idori deals 1 damage to any target and 2 damage to you. Activate only as a sorcery.
 {G}: Idori gets +0/+1 until end of turn.</text>
 			<set rarity="rare" picurl="https://jh0860.github.io/sets/JJK-files/img/265.jpg" num="250">JJK</set>
 			<prop>
@@ -5012,7 +5014,8 @@ Panda, Triceratops Mode is goaded.</text>
 			<name>Hakari&apos;s Entrance</name>
 			<text>Flash
 When this enchantment enters, up to one target creature gains hexproof and indestructible until end of turn.
-Whenever you cast a creature spell, flip a coin. If you win the flip, draw a card and put a +1/+1 counter on target creature you control.</text>
+If you would flip a coin, instead flip two coins and ignore one.
+If you would roll a die, instead roll two of those dice and ignore one of those results.</text>
 			<set rarity="rare" picurl="https://jh0860.github.io/sets/JJK-files/img/281.jpg" num="247">JJK</set>
 			<prop>
 				<layout>normal</layout>
@@ -5367,7 +5370,8 @@ Equip {2}</text>
 			<name>Threefold Affliction</name>
 			<text>As long as another non-Aura Domain is on the battlefield, this enchantment has no abilities.
 True Sphere — When Threefold Affliction enters, exile target nonland permanent.
-Each creature you don&apos;t control gets -0/-1. Creatures you control get +1/+1.</text>
+{0}: Threefold Affliction deals 1 damage to each of any number of target creatures. Activate only once each turn.
+Creatures you control get +1/+1.</text>
 			<set rarity="rare" picurl="https://jh0860.github.io/sets/JJK-files/img/301.jpg" num="295">JJK</set>
 			<prop>
 				<layout>normal</layout>
@@ -5561,8 +5565,8 @@ When Agito enters, you may have it fight target creature you don&apos;t control.
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>2/R2/UW</manacost>
-				<cmc>5</cmc>
+				<manacost>12/R2/UW</manacost>
+				<cmc>6</cmc>
 				<colors>WUR</colors>
 				<coloridentity>WUR</coloridentity>
 			</prop>
@@ -5570,9 +5574,8 @@ When Agito enters, you may have it fight target creature you don&apos;t control.
 		</card>
 		<card>
 			<name>Sukuna&apos;s Adaptation</name>
-			<text>Flash
-When Sukuna&apos;s Adaptation enters, draw a card, then choose a creature.
-Spells and abilities you control can target that creature as though it didn&apos;t have hexproof or shroud, and that creature loses indestructible. Ward abilities of that creature don&apos;t trigger.</text>
+			<text>When this enchantment enters, draw a card. Target creature you don&apos;t control loses indestructible.
+Creatures your opponents control can be the targets of spells and abilities as though they didn&apos;t have hexproof or shroud. Ward abilities of those creatures don&apos;t trigger.</text>
 			<set rarity="rare" picurl="https://jh0860.github.io/sets/JJK-files/img/313.jpg" num="129">JJK</set>
 			<prop>
 				<layout>normal</layout>
@@ -5605,8 +5608,9 @@ Exile each opponent&apos;s graveyard.</text>
 		</card>
 		<card>
 			<name>Slime Curse</name>
-			<text>Bestow {U}{U} (If you cast this card for its bestow cost, it&apos;s an Aura spell with enchant creature. It becomes a creature again if it&apos;s not attached.)
-Enchanted creature gets -4/-0.</text>
+			<text>Flash
+Bestow {U}{U} (If you cast this card for its bestow cost, it&apos;s an Aura spell with enchant creature. It becomes a creature again if it&apos;s not attached.)
+Enchanted creature gets -5/-0.</text>
 			<set rarity="rare" picurl="https://jh0860.github.io/sets/JJK-files/img/315.jpg" num="87">JJK</set>
 			<prop>
 				<layout>normal</layout>
@@ -5715,7 +5719,7 @@ The next time a player casts a spell or activates an ability this turn, that pla
 		</card>
 		<card>
 			<name>Deepest Apologies</name>
-			<text>You may tap a Plains or Island you control and put a stun counter on it rather than pay this spell&apos;s mana cost.
+			<text>You may put a stun counter on a Plains or Island you control rather than pay this spell&apos;s mana cost. If you do, tap that land.
 Counter target spell unless its controller pays {1}.</text>
 			<set rarity="rare" picurl="https://jh0860.github.io/sets/JJK-files/img/321.jpg" num="313">JJK</set>
 			<prop>
@@ -5732,7 +5736,7 @@ Counter target spell unless its controller pays {1}.</text>
 		</card>
 		<card>
 			<name>Akuro-o Otake, Rebel Spirit</name>
-			<text>Haste, menace, lifelink, ward {1}
+			<text>Haste, lifelink, ward {1}
 Whenever damage is dealt to Akuro-o Otake, it deals that much damage to any target.</text>
 			<set rarity="rare" picurl="https://jh0860.github.io/sets/JJK-files/img/322.jpg" num="223">JJK</set>
 			<prop>
@@ -5744,7 +5748,7 @@ Whenever damage is dealt to Akuro-o Otake, it deals that much damage to any targ
 				<cmc>5</cmc>
 				<colors>WBR</colors>
 				<coloridentity>WBR</coloridentity>
-				<pt>5/5</pt>
+				<pt>5/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -5758,8 +5762,8 @@ Proliferate. (Choose any number of permanents and/or players, then give each ano
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
 				<manacost>BG</manacost>
 				<cmc>2</cmc>
 				<colors>BG</colors>
@@ -5770,6 +5774,7 @@ Proliferate. (Choose any number of permanents and/or players, then give each ano
 		<card>
 			<name>Earthen Insect Trance</name>
 			<text>Flying
+When this creature enters, mill two cards.
 When this creature dies, put a -1/-1 counter on up to one target creature.</text>
 			<set rarity="rare" picurl="https://jh0860.github.io/sets/JJK-files/img/324.jpg" num="240">JJK</set>
 			<prop>
@@ -6218,7 +6223,7 @@ Cascade (When you cast this spell, exile cards from the top of your library unti
 		<card>
 			<name>Thrashing Cyclops</name>
 			<text>Trample
-You may play an additional land on each of your turns.
+{G}: Exile target card from a graveyard. If it was a creature card, this creature gets +1/+1 until end of turn.
 This creature&apos;s power and toughness is equal to the number of lands you control.</text>
 			<set rarity="rare" picurl="https://jh0860.github.io/sets/JJK-files/img/350.jpg" num="219">JJK</set>
 			<prop>
@@ -6295,8 +6300,8 @@ When you cast this spell, copy it for each time it was kicked. The copies become
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>2B</manacost>
-				<cmc>3</cmc>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 			</prop>
@@ -6393,7 +6398,7 @@ Plot {3}{R}{R} (You may pay {3}{R}{R} and exile this card from your hand. Cast i
 		</card>
 		<card>
 			<name>Incarnate</name>
-			<text>Choose a color. Until end of turn, any time you could activate a mana ability, you may pay 2 life. If you do, add one mana of the chosen color.</text>
+			<text>Choose a color. Until end of turn, any time you could activate a mana ability, you may pay 1 life. If you do, add one mana of the chosen color.</text>
 			<set rarity="rare" picurl="https://jh0860.github.io/sets/JJK-files/img/360.jpg" num="198">JJK</set>
 			<prop>
 				<layout>normal</layout>
@@ -6731,7 +6736,8 @@ Rebound (If you cast this spell from your hand, exile it as it resolves. At the 
 		</card>
 		<card>
 			<name>Grinning Curse</name>
-			<text>Whenever this creature attacks, flip a coin. If you win the flip, draw a card. If you lose the flip, discard a card, then draw a card.</text>
+			<text>Haste
+Whenever this creature attacks, flip a coin. If you win the flip, draw a card. If you lose the flip, discard a card, then draw a card.</text>
 			<set rarity="rare" picurl="https://jh0860.github.io/sets/JJK-files/img/380.jpg" num="153">JJK</set>
 			<prop>
 				<layout>normal</layout>
@@ -6922,7 +6928,7 @@ Flashback {1}{W}{W}</text>
 			<name>Curtain</name>
 			<text>Players can&apos;t draw more than one card each turn.
 Players can&apos;t cast more than one spell each turn.
-{2}, Sacrifice this enchantment: Draw a card.</text>
+Sacrifice this enchantment: Draw a card.</text>
 			<set rarity="rare" picurl="https://jh0860.github.io/sets/JJK-files/img/391.jpg" num="19">JJK</set>
 			<prop>
 				<layout>normal</layout>
@@ -7109,7 +7115,7 @@ Forestcycling {1} ({1}, Discard this card: Search your library for a Forest card
 				<cmc>7</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>7/7</pt>
+				<pt>6/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -7192,8 +7198,9 @@ Equip {2}</text>
 		</card>
 		<card>
 			<name>John✰Bobby</name>
-			<text>{T}: Flip a coin. If you win the flip, discard a card, then draw two cards. Otherwise, discard a card, then draw a card.
-Whenever you win a coin flip or roll a 4 on a d6 or higher, creatures you control get +1/+0 and gain trample until end of turn.</text>
+			<text>Haste
+{T}: Flip a coin. If you win the flip, discard a card, then draw two cards. Otherwise, discard a card, then draw a card.
+Whenever you flip a coin or roll a die, creatures you control get +1/+0 and gain trample until end of turn.</text>
 			<set rarity="rare" picurl="https://jh0860.github.io/sets/JJK-files/img/408.jpg" num="253">JJK</set>
 			<prop>
 				<layout>normal</layout>
@@ -7210,8 +7217,9 @@ Whenever you win a coin flip or roll a 4 on a d6 or higher, creatures you contro
 		</card>
 		<card>
 			<name>Cursed Gauntlets</name>
-			<text>Equipped creature gets +2/+2.
-Whenever equipped creature deals combat damage, at the beginning of the next main phase this turn, add {R}{W}.
+			<text>When this Equipment enters, attach it to target creature you control.
+Equipped creature gets +2/+1 and has ward {1}.
+Whenever equipped creature deals combat damage to an opponent, you may pay {1}. If you do, draw a card.
 Equip {2}</text>
 			<set rarity="rare" picurl="https://jh0860.github.io/sets/JJK-files/img/409.jpg" num="236">JJK</set>
 			<prop>
@@ -7219,8 +7227,8 @@ Equip {2}</text>
 				<side>front</side>
 				<type>Artifact — Equipment</type>
 				<maintype>Artifact</maintype>
-				<manacost>1RW</manacost>
-				<cmc>3</cmc>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
 				<colors>WR</colors>
 				<coloridentity>WR</coloridentity>
 			</prop>
@@ -7238,8 +7246,8 @@ Whenever you win a coin flip or roll a 4 on a d6 or higher, choose one —
 				<side>front</side>
 				<type>Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>1RG</manacost>
-				<cmc>3</cmc>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
 				<colors>RG</colors>
 				<coloridentity>RG</coloridentity>
 			</prop>
