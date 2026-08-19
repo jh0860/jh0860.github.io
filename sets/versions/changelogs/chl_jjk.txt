@@ -1,4 +1,17 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+
+
+Ui Ui, Devoted Attendant
+rules_text: Flash
+When Ui Ui enters, return target creature you control to its owner's hand.
+Warp {W}{U} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i] => Flash
+When Ui Ui enters, return up to one target creature you control to its owner's hand.
+Warp {W}{U} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]
+
+
+VERSION 7 CHANGELOG
 ====================
 
 No changes.

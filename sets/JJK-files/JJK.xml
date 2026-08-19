@@ -5894,7 +5894,7 @@ Equip {2}</text>
 		<card>
 			<name>Ui Ui, Devoted Attendant</name>
 			<text>Flash
-When Ui Ui enters, return target creature you control to its owner&apos;s hand.
+When Ui Ui enters, return up to one target creature you control to its owner&apos;s hand.
 Warp {W}{U} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
 			<set rarity="rare" picurl="https://jh0860.github.io/sets/JJK-files/img/331.jpg" num="300">JJK</set>
 			<prop>

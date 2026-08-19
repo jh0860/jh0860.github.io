@@ -6966,7 +6966,7 @@
             "number": 300,
             "color_identity": "WU",
             "cost": "{2}{W}{U}",
-            "rules_text": "Flash\nWhen Ui Ui enters, return target creature you control to its owner's hand.\nWarp {W}{U} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]",
+            "rules_text": "Flash\nWhen Ui Ui enters, return up to one target creature you control to its owner's hand.\nWarp {W}{U} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]",
             "flavor_text": "[i]\u201cI bet that brat's cursed technique is teleportation.\u201d \u2014Ryomen Sukuna[/i]",
             "pt": "3/3",
             "special_text": "",
@@ -8765,5 +8765,5 @@
             "notes": ""
         }
     ],
-    "version": 7
+    "version": 8
 }
