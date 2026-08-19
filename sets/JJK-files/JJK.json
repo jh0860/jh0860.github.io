@@ -6735,7 +6735,7 @@
             "number": 279,
             "color_identity": "UB",
             "cost": "{U}{B}",
-            "rules_text": "Split second [i](As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)[/i]\nThe next time a player casts a spell or activates an ability this turn, that player discards a card, sacrifices a creature, and loses 1 life.",
+            "rules_text": "Split second [i](As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)[/i]\nThe next time a player casts a spell or activates an ability this turn, you draw a card, then choose one \u2014 \n\u2022 That player exiles a card from their hand.\n\u2022 That player sacrifices a creature.",
             "flavor_text": "[i]\u201cHe who laughs loses!!\u201d \u2014Fumihiko Takaba[/i]",
             "pt": "",
             "special_text": "",
@@ -8765,5 +8765,5 @@
             "notes": ""
         }
     ],
-    "version": 8
+    "version": 9
 }

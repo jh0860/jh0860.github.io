@@ -1,4 +1,17 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+
+
+Staring Contest
+rules_text: Split second [i](As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)[/i]
+The next time a player casts a spell or activates an ability this turn, that player discards a card, sacrifices a creature, and loses 1 life. => Split second [i](As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)[/i]
+The next time a player casts a spell or activates an ability this turn, you draw a card, then choose one — 
+• That player exiles a card from their hand.
+• That player sacrifices a creature.
+
+
+VERSION 8 CHANGELOG
 ====================
 
 
