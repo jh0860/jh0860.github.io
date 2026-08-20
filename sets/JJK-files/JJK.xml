@@ -3554,7 +3554,7 @@ Choose one —
 			<name>Contingency Protocol</name>
 			<text>Flash
 This spell costs {3} less to cast if an opponent controls a spell or ability targeting you or a permanent you control.
-When this enchantment enters and whenever you draw your second card each turn, exile up to one target creature you control, then return it to the battlefield under its owner&apos;s control.</text>
+When this enchantment enters and whenever you cast a noncreature spell, exile up to one target creature you control, then return it to the battlefield under its owner&apos;s control.</text>
 			<set rarity="rare" picurl="https://jh0860.github.io/sets/JJK-files/img/200.jpg" num="231">JJK</set>
 			<prop>
 				<layout>normal</layout>

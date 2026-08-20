@@ -4608,7 +4608,7 @@
             "number": 231,
             "color_identity": "WU",
             "cost": "{3}{W}{U}",
-            "rules_text": "Flash\nThis spell costs {3} less to cast if an opponent controls a spell or ability targeting you or a permanent you control.\nWhen this enchantment enters and whenever you draw your second card each turn, exile up to one target creature you control, then return it to the battlefield under its owner's control.",
+            "rules_text": "Flash\nThis spell costs {3} less to cast if an opponent controls a spell or ability targeting you or a permanent you control.\nWhen this enchantment enters and whenever you cast a noncreature spell, exile up to one target creature you control, then return it to the battlefield under its owner's control.",
             "flavor_text": "[i]\u201cThere isn't much time. I'm only gonna say this once. Satoru Gojo has been sealed.\u201d[/i]",
             "pt": "",
             "special_text": "",
