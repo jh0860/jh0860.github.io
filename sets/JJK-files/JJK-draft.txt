@@ -3313,7 +3313,7 @@
 		{
 			"name": "Ui Ui, Devoted Attendant",
 			"rarity": "special",
-			"mana_cost": "{2}{W}{U}",
+			"mana_cost": "{1}{W}{U}",
 			"type": "Legendary Creature — Human Sorcerer",
 			"collector_number": "300",
 			"image_uris": {

@@ -1,4 +1,13 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+
+
+Ui Ui, Devoted Attendant
+cost: {2}{W}{U} => {1}{W}{U}
+
+
+VERSION 10 CHANGELOG
 ====================
 
 

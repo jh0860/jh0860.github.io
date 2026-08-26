@@ -5,7 +5,7 @@
 			<name>JJK</name>
 			<longname>Jujutsu Kaisen</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-19</releasedate>
+			<releasedate>2026-08-26</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -5904,8 +5904,8 @@ Warp {W}{U} (You may cast this card from your hand for its warp cost. Exile this
 				<side>front</side>
 				<type>Legendary Creature — Human Sorcerer</type>
 				<maintype>Creature</maintype>
-				<manacost>2WU</manacost>
-				<cmc>4</cmc>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
 				<colors>WU</colors>
 				<coloridentity>WU</coloridentity>
 				<pt>3/3</pt>
