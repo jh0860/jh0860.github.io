@@ -1,4 +1,30 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+
+
+Maki Zenin, Clan Failure
+rules_text: Haste
+Equip abilities you activate that target Maki cost {3} less to activate.
+Whenever another legendary creature you control dies, if you cast no spells this turn, you may pay {C}{C}. If you do, transform Maki Zenin, Clan Failure. => Haste
+Equip abilities you activate that target Maki cost {3} less to activate.
+{C}{C}: Transform Maki Zenin, Clan Failure. Activate only if there are one or more legendary creature cards in your graveyard.
+
+
+VERSION 12 CHANGELOG
+====================
+
+Idori Hazenoki, Explosion Incarnate added.
+
+Idori Hazanoki, Explosion Incarnate removed.
+
+Antigravity System
+rules_text: You may put a card from your hand on top of your library rather than pay this spell's mana cost.
+Counter target spell. => You may put a blue card or an Island card from your hand on top of your library rather than pay this spell's mana cost.
+Counter target spell.
+
+
+VERSION 11 CHANGELOG
 ====================
 
 

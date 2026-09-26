@@ -2147,7 +2147,7 @@
             "number": 167,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "Haste\nEquip abilities you activate that target Maki cost {3} less to activate.\nWhenever another legendary creature you control dies, if you cast no spells this turn, you may pay {C}{C}. If you do, transform Maki Zenin, Clan Failure.",
+            "rules_text": "Haste\nEquip abilities you activate that target Maki cost {3} less to activate.\n{C}{C}: Transform Maki Zenin, Clan Failure. Activate only if there are one or more legendary creature cards in your graveyard.",
             "flavor_text": "[i]\u201cWhat if someone who's looked down on like me became a great sorcerer?\u201d [/i]",
             "pt": "4/4",
             "special_text": "",
@@ -6096,7 +6096,7 @@
             "v_mana": ""
         },
         {
-            "card_name": "Idori Hazanoki, Explosion Incarnate",
+            "card_name": "Idori Hazenoki, Explosion Incarnate",
             "color": "RG",
             "rarity": "cube",
             "type": "Legendary Creature \u2013 Human Cursed Sorcerer",
@@ -6747,7 +6747,7 @@
             "number": 56,
             "color_identity": "U",
             "cost": "{3}{U}{U}",
-            "rules_text": "You may put a card from your hand on top of your library rather than pay this spell's mana cost.\nCounter target spell.",
+            "rules_text": "You may put a blue card or an Island card from your hand on top of your library rather than pay this spell's mana cost.\nCounter target spell.",
             "flavor_text": "[i]\u201cA misfire? No! He deflected the blood from every direction!\u201d \u2014Choso[/i]",
             "pt": "",
             "special_text": "",
